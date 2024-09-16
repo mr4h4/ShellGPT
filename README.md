@@ -9,19 +9,19 @@ Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
 # **Guía de Instalación**:
 
 - **Instalar "openai"**
-```bash
-pip install openai
-```
+  ```bash
+  pip install openai
+  ```
 
 - **Navegar al directorio de ShellGPT:**
-```bash
-cd ShellGPT
-```
+  ```bash
+  cd ShellGPT
+  ```
 
 - **Iniciar ShellGPT:**
-```bash
-pyhton shellgpt.py
-```
+  ```bash
+  pyhton shellgpt.py
+  ```
 
 ---
 # ShellGPT (ENG)
