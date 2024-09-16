@@ -1,4 +1,4 @@
-# ShellGPT
+# ShellGPT (ESP)
 Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
 
 - **🤖 Características ShellGPT**:  
@@ -24,7 +24,7 @@ pyhton shellgpt.py
 ```
 
 ---
-
+# ShellGPT (ENG)
 OpenAI Technology: **Chat with ChatGPT from the Terminal.**
 
 - **🤖 ShellGPT Features**:
