@@ -3,7 +3,7 @@ Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
 
 - **🤖 Características ShellGPT**:  
 - Fácil de usar, ejecutable en cualquier terminal.
-- ShellGPT es capaz de crear consultar para ChatGPT 3.5 Turbo.
+- ShellGPT es capaz de crear consultas para ChatGPT 3.5 Turbo.
 - Requiere tener instalado el modulo **"openai"**.
 
 # **Guía de Instalación**:
