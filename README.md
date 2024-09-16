@@ -6,7 +6,7 @@ Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
 - ShellGPT es capaz de crear consultar para ChatGPT 3.5 Turbo.
 - Requiere tener instalado el modulo **"openai"**.
 
-- **Guía de Instalación**:
+# **Guía de Instalación**:
 
 - **Instalar "openai"**
 ```bash
@@ -32,7 +32,7 @@ OpenAI Technology: **Chat with ChatGPT from the Terminal.**
   - ShellGPT can create queries for ChatGPT 3.5 Turbo.
   - Requires the **"openai"** module to be installed.
 
-- **Installation Guide**:
+# **Installation Guide**:
 
   - **Install "openai":**
     ```bash
