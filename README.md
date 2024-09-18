@@ -26,7 +26,7 @@ OpenAI Technology: **Chat with ChatGPT from the Terminal.**
 --- 
 
 
-# Guide to Obtaining an OpenAI API Key
+# Guide to Obtaining an OpenAI API Key 🔑
 
 This tutorial will guide you step-by-step through the process of obtaining an OpenAI API key, which is necessary to integrate and use the platform's services.
 
@@ -55,9 +55,12 @@ This tutorial will guide you step-by-step through the process of obtaining an Op
 > ⚠️ **Important:** Store your API key in a secure place, such as a password manager. Do not share it publicly or upload it to unsecured code repositories.
 
 ## Step 5: Use the API Key
-```python
 Once you have the key, you can use it in your projects. For example, if you are using the `openai` Python library, you can set the key like this:
+
+```python
+import openai
 ```
+
 # Set your API key
 ```python
 openai.api_key = 'your-api-key-here'
@@ -93,7 +96,7 @@ Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
 ---
 
 
-  # Guía para obtener una API Key de OpenAI
+  # Guía para obtener una API Key de OpenAI 🔑
 
 Este tutorial te guiará paso a paso en el proceso de obtener una clave de API de OpenAI, que es necesaria para integrar y utilizar los servicios de la plataforma.
 
