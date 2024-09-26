@@ -69,7 +69,7 @@ openai.api_key = 'your-api-key-here'
 ---
 
 # ShellGPT 🇪🇸
-Tecnología OpenAI: **Chatea con ChatGPT desde terminal.**
+Tecnología OpenAI: **ChatGPT en tu terminal.**
 
 - **🤖 Características ShellGPT**:  
 - Fácil de usar, ejecutable en cualquier terminal.
