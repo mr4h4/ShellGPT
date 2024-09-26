@@ -1,5 +1,5 @@
 # ShellGPT 🇬🇧
-OpenAI Technology: **Chat with ChatGPT from the Terminal.**
+OpenAI Technology: **Talk to ChatGPT from the Terminal.**
 
 - **🤖 ShellGPT Features**:
   - Easy to use, executable from any terminal.
